@@ -1,0 +1,4 @@
+# Twitter-Tag-Traffic-analyzer
+A data-mining tool for twitter, which takes Hashtag/Hashtags as input and get top tweets for that tag/tags, and divides it as per their location and shows it as a graph after which one can get the live traffic data from that location with a map.
+Languages - Python, Tweepy
+contact ripusudan@outlook.in for Project.
